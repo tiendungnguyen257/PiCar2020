@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>10.jpg</filename>
+	<path>D:\Users\TIEN_DUNG\Projects\Do_an_tot_nghiep_Ky_su_Co_dien_tu\Documents_and_Data\training_tutorials-object_detection_demo-master\object_detection_demo-master\data\images\img\10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cam_di_nguoc_chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>16</ymin>
+			<xmax>548</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>
