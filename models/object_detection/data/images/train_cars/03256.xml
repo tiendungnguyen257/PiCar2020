@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Huu</folder>
+	<filename>03256.jpg</filename>
+	<path>F:\Huu\03256.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2576</width>
+		<height>1840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Xe_hoi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>794</ymin>
+			<xmax>2420</xmax>
+			<ymax>1757</ymax>
+		</bndbox>
+	</object>
+</annotation>
