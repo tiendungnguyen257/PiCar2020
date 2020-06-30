@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dau</folder>
+	<filename>00081.jpg</filename>
+	<path>E:\Python\Do_an\Dau\00081.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>301</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Xe_hoi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>53</ymin>
+			<xmax>546</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>
