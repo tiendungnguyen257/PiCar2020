@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cars_train</folder>
+	<filename>06009.jpg</filename>
+	<path>D:\Users\TIEN_DUNG\Projects\Do_an_tot_nghiep_Ky_su_Co_dien_tu\Documents_and_Data\training_tutorials-object_detection_demo-master\object_detection_demo-master\data\video_1\cars_train\cars_train\06009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Xe_hoi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>19</ymin>
+			<xmax>364</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>
